@@ -1,0 +1,22 @@
+[
+    {
+        "Nama": "Luo Binghe",
+        "Status": "Guru Fisika",
+        "Foto": "Images/binghe.jpg"
+    },
+    {
+        "Nama": "lan Wangji",
+        "Status": "Guru Biologi",
+        "Foto": "Images/wangji.jpg"
+    },
+    {
+        "Nama": "Chu Wanning",
+        "Status": "Guru Matematika",
+        "Foto": "images/wanning.jpg"
+    },
+    {
+        "Nama": "Cale Henituse",
+        "Status": "Guru Kimia",
+        "Foto": "Images/cale.jpg"
+    }
+]
